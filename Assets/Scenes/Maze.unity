@@ -676,7 +676,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 40
+    FieldOfView: 50
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -1136,7 +1136,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 40
+    FieldOfView: 50
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -1162,7 +1162,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 402752590}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.12367524, y: -0.000000017599769, z: 0.0000000021934958, w: 0.99232274}
+  m_LocalRotation: {x: 0.1135837, y: -1e-45, z: -0, w: 0.9935284}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1988,7 +1988,7 @@ Camera:
     height: 1
   near clip plane: 0.1
   far clip plane: 5000
-  field of view: 40
+  field of view: 50
   orthographic: 0
   orthographic size: 10
   m_Depth: -1
@@ -2014,7 +2014,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 827326072}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.14165707, y: -0.000000008516434, z: 0.0000000012187028, w: 0.9899158}
+  m_LocalRotation: {x: 0.13659872, y: 0.000000017045103, z: -0.0000000023503708, w: 0.99062645}
   m_LocalPosition: {x: 2.14, y: 5.81, z: -47.399998}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2590,7 +2590,7 @@ MonoBehaviour:
   m_Follow: {fileID: 1431909225}
   m_CommonLens: 1
   m_Lens:
-    FieldOfView: 40
+    FieldOfView: 50
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -4486,7 +4486,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 40
+    FieldOfView: 50
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -4512,7 +4512,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2028517568}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.14165707, y: -0.000000008516434, z: 0.0000000012187028, w: 0.9899158}
+  m_LocalRotation: {x: 0.13659872, y: 0.000000017045103, z: -0.0000000023503708, w: 0.99062645}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -5075,7 +5075,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8803306870419581051, guid: 65ee474668206ef439dac0a05d0783ce, type: 3}
       propertyPath: m_Name
-      value: LowPolyMan
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 8803306870419581051, guid: 65ee474668206ef439dac0a05d0783ce, type: 3}
       propertyPath: m_TagString
